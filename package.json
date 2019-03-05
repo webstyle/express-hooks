@@ -1,6 +1,7 @@
 {
   "name": "expresshooks",
   "version": "1.0.0",
+  "author": "webstyle",
   "description": "Express.js hooks",
   "main": "src/index.js",
   "scripts": {
