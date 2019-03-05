@@ -1,7 +1,7 @@
 {
-  "name": "node-sandbox",
+  "name": "expresshooks",
   "version": "1.0.0",
-  "description": "Simple Node Sandbox",
+  "description": "Express.js hooks",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js localhost 8080"
