@@ -1,6 +1,9 @@
 # Express.js routing lifecycle hooks
 
 ## Installation
+```bash
+npm i @webstyle/expresshooks --save
+```
 
 
 ### before
