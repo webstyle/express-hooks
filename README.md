@@ -31,7 +31,7 @@ async function logger(response) {
 }
 
 // Add after hook as middleware 
-app.get("/", before(logger), function(req, res) {
+app.get("/", after(logger), function(req, res) {
   return res.send("Hello world");
 });
 ```
